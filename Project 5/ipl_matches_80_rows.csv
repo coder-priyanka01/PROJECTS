@@ -1,0 +1,81 @@
+date,team1,team2,venue,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match
+2023-04-01,CSK,RCB,Wankhede,MI,field,MI,51,3,Warner
+2023-04-02,KKR,CSK,Feroz Shah Kotla,CSK,field,KKR,54,8,Virat
+2023-04-03,CSK,MI,Chinnaswamy,PBKS,bat,SRH,26,8,Rahul
+2023-04-04,MI,KKR,Chinnaswamy,MI,field,KKR,56,6,Pant
+2023-04-05,CSK,MI,Wankhede,SRH,field,RCB,9,1,Russell
+2023-04-06,MI,PBKS,Feroz Shah Kotla,KKR,bat,PBKS,36,3,Warner
+2023-04-07,RCB,SRH,Chinnaswamy,KKR,field,RCB,30,9,Buttler
+2023-04-08,RR,KKR,Eden Gardens,SRH,field,RCB,4,4,Rohit
+2023-04-09,SRH,KKR,Eden Gardens,CSK,bat,RR,37,5,Warner
+2023-04-10,RR,RCB,Feroz Shah Kotla,MI,field,CSK,83,7,Rohit
+2023-04-11,CSK,MI,Eden Gardens,DC,field,MI,45,3,Warner
+2023-04-12,PBKS,DC,Feroz Shah Kotla,KKR,bat,PBKS,86,8,Dhoni
+2023-04-13,DC,SRH,Eden Gardens,CSK,bat,DC,24,2,Buttler
+2023-04-14,KKR,MI,Eden Gardens,RCB,bat,KKR,91,5,Warner
+2023-04-15,PBKS,RCB,Wankhede,DC,bat,KKR,33,7,Pant
+2023-04-16,CSK,KKR,Chinnaswamy,SRH,bat,KKR,28,9,Dhoni
+2023-04-17,CSK,RCB,Wankhede,PBKS,bat,DC,85,0,Warner
+2023-04-18,MI,KKR,Eden Gardens,SRH,field,CSK,96,5,Russell
+2023-04-19,SRH,RCB,Eden Gardens,SRH,bat,MI,29,5,Warner
+2023-04-20,KKR,RR,Wankhede,RCB,bat,CSK,68,4,Rohit
+2023-04-21,DC,MI,Eden Gardens,MI,bat,RCB,37,4,Rohit
+2023-04-22,KKR,KKR,Chinnaswamy,MI,field,RR,42,3,Dhoni
+2023-04-23,RR,RCB,Feroz Shah Kotla,PBKS,field,RR,85,4,Russell
+2023-04-24,PBKS,KKR,Chinnaswamy,PBKS,bat,SRH,8,5,Warner
+2023-04-25,RCB,SRH,Eden Gardens,MI,field,KKR,58,0,Buttler
+2023-04-26,MI,SRH,Eden Gardens,PBKS,field,KKR,99,3,Rohit
+2023-04-27,RR,SRH,Feroz Shah Kotla,PBKS,field,RR,81,7,Buttler
+2023-04-28,MI,SRH,Eden Gardens,RR,field,RR,23,8,Rohit
+2023-04-29,MI,CSK,Feroz Shah Kotla,PBKS,field,PBKS,97,7,Warner
+2023-04-30,RR,RR,Feroz Shah Kotla,MI,bat,KKR,53,4,Rohit
+2023-05-01,CSK,RR,Feroz Shah Kotla,CSK,bat,PBKS,95,9,Russell
+2023-05-02,KKR,CSK,Eden Gardens,CSK,field,PBKS,22,8,Buttler
+2023-05-03,PBKS,SRH,Chinnaswamy,DC,bat,SRH,61,9,Buttler
+2023-05-04,PBKS,SRH,Eden Gardens,MI,field,RR,64,8,Rahul
+2023-05-05,RCB,PBKS,Eden Gardens,RCB,field,DC,63,7,Virat
+2023-05-06,PBKS,DC,Eden Gardens,MI,field,CSK,45,7,Dhoni
+2023-05-07,KKR,PBKS,Eden Gardens,RCB,bat,MI,77,7,Rohit
+2023-05-08,DC,KKR,Chinnaswamy,CSK,bat,SRH,10,7,Virat
+2023-05-09,SRH,DC,Feroz Shah Kotla,DC,bat,KKR,42,8,Buttler
+2023-05-10,DC,KKR,Eden Gardens,CSK,field,RR,19,0,Dhoni
+2023-05-11,RR,RR,Eden Gardens,RR,bat,PBKS,80,4,Russell
+2023-05-12,RR,RR,Eden Gardens,MI,bat,CSK,66,2,Rahul
+2023-05-13,CSK,CSK,Feroz Shah Kotla,MI,field,RR,92,0,Pant
+2023-05-14,DC,PBKS,Feroz Shah Kotla,PBKS,bat,MI,5,6,Buttler
+2023-05-15,CSK,DC,Feroz Shah Kotla,PBKS,bat,RCB,60,9,Pant
+2023-05-16,CSK,DC,Feroz Shah Kotla,PBKS,bat,MI,14,7,Russell
+2023-05-17,MI,KKR,Feroz Shah Kotla,SRH,bat,RR,58,1,Rohit
+2023-05-18,SRH,KKR,Eden Gardens,RCB,field,DC,2,2,Russell
+2023-05-19,PBKS,SRH,Wankhede,RCB,bat,MI,79,8,Pant
+2023-05-20,CSK,PBKS,Eden Gardens,KKR,field,RR,47,1,Rohit
+2023-05-21,KKR,RCB,Feroz Shah Kotla,DC,bat,KKR,54,2,Dhoni
+2023-05-22,KKR,KKR,Wankhede,MI,field,KKR,45,6,Dhoni
+2023-05-23,DC,SRH,Wankhede,DC,field,KKR,56,1,Virat
+2023-05-24,RCB,MI,Chinnaswamy,SRH,bat,KKR,72,2,Dhoni
+2023-05-25,RCB,KKR,Chinnaswamy,RCB,bat,DC,89,8,Warner
+2023-05-26,KKR,PBKS,Eden Gardens,RCB,field,RCB,97,4,Buttler
+2023-05-27,SRH,RR,Feroz Shah Kotla,SRH,field,PBKS,26,1,Dhoni
+2023-05-28,RR,SRH,Feroz Shah Kotla,CSK,bat,RR,24,7,Russell
+2023-05-29,MI,KKR,Chinnaswamy,DC,bat,RR,59,7,Rohit
+2023-05-30,RR,CSK,Chinnaswamy,SRH,field,MI,47,3,Pant
+2023-05-31,SRH,SRH,Chinnaswamy,RR,bat,PBKS,97,3,Dhoni
+2023-06-01,KKR,SRH,Eden Gardens,DC,field,CSK,58,3,Rahul
+2023-06-02,CSK,PBKS,Chinnaswamy,SRH,bat,CSK,72,6,Warner
+2023-06-03,RR,PBKS,Chinnaswamy,RR,bat,PBKS,51,9,Dhoni
+2023-06-04,KKR,MI,Wankhede,KKR,bat,KKR,28,0,Rahul
+2023-06-05,RCB,MI,Eden Gardens,RCB,bat,MI,92,4,Rohit
+2023-06-06,KKR,MI,Feroz Shah Kotla,CSK,field,RCB,91,2,Rahul
+2023-06-07,SRH,DC,Wankhede,CSK,field,PBKS,2,7,Pant
+2023-06-08,PBKS,RCB,Wankhede,RR,field,KKR,72,2,Pant
+2023-06-09,CSK,KKR,Eden Gardens,RCB,bat,PBKS,91,4,Warner
+2023-06-10,CSK,RR,Feroz Shah Kotla,SRH,field,RR,31,7,Pant
+2023-06-11,KKR,MI,Eden Gardens,SRH,field,PBKS,84,4,Rahul
+2023-06-12,CSK,MI,Wankhede,RR,bat,PBKS,18,8,Rahul
+2023-06-13,RR,KKR,Eden Gardens,MI,field,KKR,98,1,Buttler
+2023-06-14,SRH,MI,Feroz Shah Kotla,MI,bat,RR,20,5,Russell
+2023-06-15,RR,DC,Wankhede,DC,field,PBKS,11,6,Pant
+2023-06-16,KKR,CSK,Eden Gardens,RR,field,SRH,1,3,Rahul
+2023-06-17,MI,RCB,Chinnaswamy,DC,bat,RR,58,4,Rahul
+2023-06-18,MI,MI,Chinnaswamy,KKR,field,CSK,15,9,Russell
+2023-06-19,CSK,MI,Feroz Shah Kotla,SRH,field,PBKS,99,2,Dhoni
